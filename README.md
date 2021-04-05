@@ -1,6 +1,10 @@
 # ttstesting
 
-A new Flutter project.
+Flutter app to showcase Text To Speech feature.
+- Variable pitch, speech rate and volume feature.
+- Can synthesize file into .mp3 form and save into internal storage.
+- Provides various languages. 
+
 
 ## Getting Started
 
